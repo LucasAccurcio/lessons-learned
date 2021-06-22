@@ -27,7 +27,7 @@ nav li {
   border-style: solid;
 }
 
-article {
+.lado-esquerdo {
     display: inline-block;
     width: 40%;
     text-align: justify;
@@ -35,7 +35,7 @@ article {
     padding: 2.5%;
 }
 
-aside {
+.lado-direito {
     display: inline-block;
     width: 40%;
     text-align: justify;
