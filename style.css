@@ -5,17 +5,19 @@ body {
   color: rgb(29, 29, 29);
   line-height: 25px;
 }
+
 #cabecalho {
   position: fixed;
   top: 0;
 }
+
 nav {
   display: inline-block;
   width: auto;
   padding: 3px;
   margin-top: 40px;
-
 }
+
 nav li {
   display: inline-block;
   width: auto;
