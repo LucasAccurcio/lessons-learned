@@ -27,6 +27,15 @@ nav li {
   border-style: solid;
 }
 
+nav li a {
+  text-decoration: none;
+  color: red;
+}
+
+nav li:hover {
+    background-color:wheat;
+}
+
 .lado-esquerdo {
     display: inline-block;
     width: 40%;
