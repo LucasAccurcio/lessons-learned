@@ -33,22 +33,22 @@ nav li a {
 }
 
 nav li:hover {
-    background-color:wheat;
+  background-color:wheat;
 }
 
 .lado-esquerdo {
-    display: inline-block;
-    width: 40%;
-    text-align: justify;
-    border: 1px solid black; 
-    padding: 2.5%;
+  display: inline-block;
+  width: 40%;
+  text-align: justify;
+  border: 1px solid black; 
+  padding: 2.5%;
 }
 
 .lado-direito {
-    display: inline-block;
-    width: 40%;
-    text-align: justify;
-    border: 1px solid black; 
-    padding: 2.5%;
+  display: inline-block;
+  width: 40%;
+  text-align: justify;
+  border: 1px solid black; 
+  padding: 2.5%;
 }
 
