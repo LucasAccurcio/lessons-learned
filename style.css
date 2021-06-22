@@ -26,3 +26,20 @@ nav li {
   border-color: black;
   border-style: solid;
 }
+
+article {
+    display: inline-block;
+    width: 40%;
+    text-align: justify;
+    border: 1px solid black; 
+    padding: 2.5%;
+}
+
+aside {
+    display: inline-block;
+    width: 40%;
+    text-align: justify;
+    border: 1px solid black; 
+    padding: 2.5%;
+}
+
